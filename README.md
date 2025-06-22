@@ -55,7 +55,8 @@ lib/
 
 https://github.com/user-attachments/assets/5ee5b8b5-0e29-4e41-b33d-b6f50d3f8624
 
-
+##Link para Teste
+https://preview.flutlab.io/alyson_monteiro/valorant-data/
 
 ## 📜 Licença
 Este projeto está licenciado sob a licença MIT.
